@@ -1,4 +1,4 @@
-In the context below, "integration" refers to the capability of retrieving sales information.
+> In the context below, "integration" refers to the capability of retrieving sales information.
 
 Type of data source:
 
