@@ -10,23 +10,25 @@ Type of data source:
 
 - Dashboard - web-application
 
-| Name       | Link                                                                      | Type of integration | Notes     |
-| ---------- | ------------------------------------------------------------------------- | ------------------- | --------- |
-| Foodics    | [foodics.com](http://foodics.com/)                                        | API, dashboard      |           |
-| Syrve      | [syrve.com](http://syrve.com)                                             | API                 |           |
-| Sapaad     | [sapaad.com](http://sapaad.com)                                           | API                 |           |
-| Micros     | [oracle.com/food-beverage/micros](http://oracle.com/food-beverage/micros) | DB                  |           |
-| NewPOS     |                                                                           | File (STLD.xml)     | McDonalds |
-| Pospal     | [pospal.cn](http://pospal.cn)                                             | API                 |           |
-| Aloha      | [https://alohancr.com/aloha](https://alohancr.com/aloha/)                 | File (DBF)          |           |
-| Loyverse   | [loyverse.com](http://loyverse.com)                                       | API                 |           |
-| Fresha     | [fresha.com](http://fresha.com)                                           | Dashboard           |           |
-| Lightspeed | [lightspeedhq.com](http://lightspeedhq.com/)                              | API, dashboard      |           |
-| Aronium    | [aronium.com](http://aronium.com/en)                                      | DB                  |           |
-| Optapos    | [optapos.net](http://optapos.net)                                         | Dashboard           |           |
-| FactsERP   | [facts.ae](http://facts.ae)                                               | DB                  |           |
-| Rkeeper    | [https://rkeeper.ru](https://rkeeper.ru/)                                 | DB                  |           |
-| iiko       | [https://iiko.ru](https://iiko.ru/)                                       | DB, API             |           |
+| Name       | Link                                                                      | Type of integration | Notes                                                                     |
+| ---------- | ------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- |
+| Foodics    | [foodics.com](http://foodics.com/)                                        | API, dashboard      |                                                                           |
+| Syrve      | [syrve.com](http://syrve.com)                                             | API                 |                                                                           |
+| Sapaad     | [sapaad.com](http://sapaad.com)                                           | API                 |                                                                           |
+| Micros     | [oracle.com/food-beverage/micros](http://oracle.com/food-beverage/micros) | DB                  |                                                                           |
+| NewPOS     |                                                                           | File (STLD.xml)     | McDonalds                                                                 |
+| Pospal     | [pospal.cn](http://pospal.cn)                                             | API                 |                                                                           |
+| Aloha      | [alohancr.com/aloha](https://alohancr.com/aloha/)                         | File (DBF)          |                                                                           |
+| Loyverse   | [loyverse.com](http://loyverse.com)                                       | API                 |                                                                           |
+| Fresha     | [fresha.com](http://fresha.com)                                           | Dashboard           |                                                                           |
+| Lightspeed | [lightspeedhq.com](http://lightspeedhq.com/)                              | API, dashboard      |                                                                           |
+| Aronium    | [aronium.com](http://aronium.com/en)                                      | DB                  |                                                                           |
+| Optapos    | [optapos.net](http://optapos.net)                                         | Dashboard           |                                                                           |
+| FactsERP   | [facts.ae](http://facts.ae)                                               | DB                  |                                                                           |
+| Rkeeper    | [rkeeper.ru](https://rkeeper.ru/)                                         | DB                  |                                                                           |
+| iiko       | [iiko.ru](https://iiko.ru/)                                               | DB, API             |                                                                           |
+| 1C         | [1c.ru](https://1c.ru/)                                                   | Many                | [v8.1c.ru/platforma/integraciya](https://v8.1c.ru/platforma/integraciya/) |
+| Grubtech   | [grubtech.io](http://grubtech.io/)                                        | API                 |                                                                           |        |           |
 
 
 
