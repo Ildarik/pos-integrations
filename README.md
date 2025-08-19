@@ -30,6 +30,7 @@ Type of data source:
 | 1C         | [1c.ru](https://1c.ru/)                                                                      | Many                | [v8.1c.ru/platforma/integraciya](https://v8.1c.ru/platforma/integraciya/) |
 | Grubtech   | [grubtech.io](http://grubtech.io/)                                                           | API                 |                                                                           |
 | Retail POS | [microsoft.com/en-us/dynamics365/retail](https://www.microsoft.com/en-us/dynamics365/retail) | DB                  | Microsoft Dynamics for Retail                                             |
+| Rist POS   | [ristsys.com/pos](https://ristsys.com/pos/)                                                  | DB                  |                                                                           |                                       |
 
 
 
