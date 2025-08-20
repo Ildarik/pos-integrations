@@ -32,6 +32,7 @@ Type of data source:
 | Retail POS  | [microsoft.com/en-us/dynamics365/retail](https://www.microsoft.com/en-us/dynamics365/retail) | DB                  | Microsoft Dynamics for Retail                                             |
 | Rist POS    | [ristsys.com/pos](https://ristsys.com/pos/)                                                  | DB                  |                                                                           |
 | Everest POS | [everestpos.com](https://everestpos.com/)                                                    | DB                  | Microsoft Access                                                          |
+| ETP store   |                                                                                              | DB                  | SQL Server                                                                |                                                      |
 
 
 
