@@ -34,6 +34,7 @@ Type of data source:
 | Everest POS     | [everestpos.com](https://everestpos.com/)                                                                                                 | DB                  | Microsoft Access                                                          |
 | ETP store       |                                                                                                                                           | DB                  | SQL Server                                                                |
 | Oracle Simphony | [oracle.com/food-beverage/restaurant-pos-systems/simphony-pos](https://www.oracle.com/food-beverage/restaurant-pos-systems/simphony-pos/) | API                 |                                                                           |
+| invo POS        | [invopos.com](https://www.invopos.com/)                                                                                                   | DB                  | MS SQL                                                                    |
 
 
 
