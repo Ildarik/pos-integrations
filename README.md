@@ -15,7 +15,7 @@ Type of data source:
 | Foodics         | [foodics.com](http://foodics.com/)                                                                                                        | API, dashboard      |                                                                           |
 | Syrve           | [syrve.com](http://syrve.com)                                                                                                             | API                 |                                                                           |
 | Sapaad          | [sapaad.com](http://sapaad.com)                                                                                                           | API                 |                                                                           |
-| Oracle Micros   | [oracle.com/food-beverage/micros](http://oracle.com/food-beverage/micros)                                                                 | DB                  |                                                                           |
+| Oracle Micros   | [oracle.com/food-beverage/micros](http://oracle.com/food-beverage/micros)                                                                 | DB                  | Oracle                                                                    |
 | NewPOS          |                                                                                                                                           | File (STLD.xml)     | McDonalds                                                                 |
 | Pospal          | [pospal.cn](http://pospal.cn)                                                                                                             | API                 |                                                                           |
 | Aloha           | [alohancr.com/aloha](https://alohancr.com/aloha/)                                                                                         | File (DBF)          |                                                                           |
@@ -35,6 +35,9 @@ Type of data source:
 | ETP store       |                                                                                                                                           | DB                  | SQL Server                                                                |
 | Oracle Simphony | [oracle.com/food-beverage/restaurant-pos-systems/simphony-pos](https://www.oracle.com/food-beverage/restaurant-pos-systems/simphony-pos/) | API                 |                                                                           |
 | invo POS        | [invopos.com](https://www.invopos.com/)                                                                                                   | DB                  | MS SQL                                                                    |
+| Oracle Xstore   |                                                                                                                                           | DB                  | Oracle                                                                    |
+| Overseepos      | [overseepos.com](http://overseepos.com)                                                                                                   | DB                  | MySQL                                                                     |
+| TMBill          | [tmbill.com](https://tmbill.com/)                                                                                                         | API                 |                                                                           |
 
 
 
